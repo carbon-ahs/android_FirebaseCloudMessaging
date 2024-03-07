@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58272346828",
+    "project_id": "fir-push-notification-608b7",
+    "storage_bucket": "fir-push-notification-608b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58272346828:android:2b06a48105df1f92018869",
+        "android_client_info": {
+          "package_name": "com.axiagroups.firebasepushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdw4c7pgVOCq7SbL3B-cZDIKnKYw_jKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58272346828:android:1b31a0c566bb7a79018869",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdw4c7pgVOCq7SbL3B-cZDIKnKYw_jKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
